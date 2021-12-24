@@ -1,6 +1,6 @@
 # Hackerrank-Automation-Promises
 
--->This tool can be used to submit solutions in the hackerrank contests
+-->This tool can be used to submit solutions in the hackerrank contests\
 --> The real purpose of the project is to learn Web Automation 
 Programming Language used --> JavaScript
 The dependency used by me while making this project is :- puppeteer // for web automation
